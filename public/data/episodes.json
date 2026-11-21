@@ -1,0 +1,40 @@
+[
+  {
+    "id": "azov-azovstal-2022",
+    "title": "Defense of Azovstal",
+    "unit": "Azov",
+    "side": "UA",
+    "start": "2022-04-11",
+    "end": "2022-05-20",
+    "place": "Azovstal Iron and Steel Works, Mariupol",
+    "center": [37.6105, 47.0985],
+    "notes": "Last organized defense of Mariupol. Defenders left the plant on 16-20 May 2022.",
+    "videos": [
+      {"url": "https://www.youtube.com/watch?v=N1bNvDw7jUk", "label": "Azov: memoirs of the last days of the defense (2023)"},
+      {"url": "https://www.youtube.com/watch?v=4JFmo-Ukk5c", "label": "Azov Brigade: civilian evacuation from Azovstal (2024)"}
+    ],
+    "sources": [
+      "https://www.pravda.com.ua/eng/news/2022/05/05/7344293/",
+      "https://global.espreso.tv/azov-regiment-releases-video-memoirs-of-last-days-of-azovstal-defense",
+      "https://militarnyi.com/en/news/azov-assault-brigade-demonstrated-how-its-soldiers-were-evacuating-civilians-in-mariupol/"
+    ]
+  },
+  {
+    "id": "3oshbr-andriivka-2023",
+    "title": "Liberation of Andriivka",
+    "unit": "3rd Assault Brigade",
+    "side": "UA",
+    "start": "2023-08-20",
+    "end": "2023-09-16",
+    "place": "Andriivka, south of Bakhmut",
+    "center": [37.968, 48.502],
+    "notes": "The brigade published helmet-camera (GoPro) footage of the assault on its own channels in mid-September 2023. Add the original upload's link here.",
+    "videos": [
+      {"url": "https://t.me/GeneralStaffZSU/9730", "label": "General Staff: flag raised over Andriivka (photos)"}
+    ],
+    "sources": [
+      "https://www.ukrinform.net/rubric-ato/3762752-general-staff-shows-how-soldiers-of-third-assault-brigade-raise-flag-over-andriivka.html",
+      "https://www.kyivpost.com/post/21693"
+    ]
+  }
+]

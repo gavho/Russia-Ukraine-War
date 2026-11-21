@@ -1,0 +1,13 @@
+[
+  {"name": "Azov", "side": "UA", "patterns": ["(?<!sea of )(?<!port of )\\bazov\\b(?!\\s*sea)(?!-?stal)"]},
+  {"name": "3rd Assault Brigade", "side": "UA", "patterns": ["\\b3(?:rd)?\\s+(?:separate\\s+)?assault\\s+brigade\\b"]},
+  {"name": "Kraken", "side": "UA", "patterns": ["\\bkraken\\b"]},
+  {"name": "Da Vinci Wolves", "side": "UA", "patterns": ["\\bda\\s?vinci\\b"]},
+  {"name": "Madyar's Birds", "side": "UA", "patterns": ["\\bma[dg]yar\\b", "\\b414th\\b"]},
+  {"name": "Wagner Group", "side": "RU", "patterns": ["\\bwagner\\b"]},
+  {"name": "Akhmat / Kadyrovites", "side": "RU", "patterns": ["\\bakhmat\\b", "\\bkadyrov"]},
+  {"name": "Storm-Z", "side": "RU", "patterns": ["\\bstorm[- ]?z\\b"]},
+  {"name": "VDV", "side": "RU", "patterns": ["\\bvdv\\b"]},
+  {"name": "Rubikon", "side": "RU", "patterns": ["\\brubikon\\b"]},
+  {"name": "North Korean troops", "side": "RU", "patterns": ["\\bnorth korean (?:soldiers|troops|forces)\\b"]}
+]
